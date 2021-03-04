@@ -10,7 +10,7 @@
 
 <script>
 export default {
-  emits: ["set-data"],
+  //   emits: ["set-data"],
   data() {
     return {
       enteredName: "",
